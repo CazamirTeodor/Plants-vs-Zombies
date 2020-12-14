@@ -15,6 +15,3 @@ Ce lucruri mai trebuie implementate (nu prea am avut timp cu examenele astea, da
 ( asociem secventa de biti 000 pentru sunflower, 001 pentru peashooter, etc); acesta trebuie parsat la login, ca sa stim daca vrem sa reluam jocul.
 5. Sunetele: am bagat cateva sunete ca sa vad cum merge. Acest lucru se poate face prin 2 functii, insa pentru pentru a elimina acel delay cat continutul sunetului este
 incarcat, iar mai apoi redat, se poate face o clasa Wave de exemplu, care retine toate sunetele jocului si le incarca la inceputul programului.
-
-Sper ca va place jocul, am incercat sa il fac cat mai frumos. L-as fi facut si mai frumos daca nu aveam examenele, dar nu e problema, o sa il fac dupa ce termin sesiunea
-si probabil o sa il pun pe GitHub. Multumesc!
